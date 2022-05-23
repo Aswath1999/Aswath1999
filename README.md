@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **SciKit-learn, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://aswath1999.github.io/](https://aswath1999.github.io/)
-
 - 💬 Ask me about **software development, data science and webdevelopment**
 
 - 📫 How to reach me **csk.aswath@gmail.com**

@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aswath chandrasekaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswath chandrasekaran" height="30" width="40" /></a>
-<a href="https://kaggle.com/aswath chandrasekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aswath chandrasekar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aswath-chandrasekaran-01807820b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswath chandrasekaran" height="30" width="40" /></a>
+<a href="https://kaggle.com/aswathchandrasekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aswath chandrasekar" height="30" width="40" /></a>
 <a href="https://instagram.com/chandrasekaranaswath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrasekaranaswath" height="30" width="40" /></a>
 </p>
 

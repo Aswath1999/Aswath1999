@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswath Chandrasekaran</h1>
 <h3 align="center">A passionate software developer in Germany</h3>
 
-- 🌱 I’m currently learning **SciKit-learn, Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **software development, data science and webdevelopment**
 

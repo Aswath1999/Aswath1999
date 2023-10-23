@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **software development, data science and webdevelopment**
+- 💬 Ask me about **Healthcare,Softwaredevelopment,Artificial Intelligence, Datascience and Webdevelopment**
 
 - 📫 How to reach me **csk.aswath@gmail.com**
 

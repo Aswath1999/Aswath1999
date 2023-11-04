@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **csk.aswath@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tBGaVd18tRbRNzEvQrDb11-a3T8RmTbL/view?usp=sharing](https://drive.google.com/file/d/1tBGaVd18tRbRNzEvQrDb11-a3T8RmTbL/view?usp=sharing)
-
 - ⚡ Fun fact **Anime is fun. Let's discuss about Animes😉**
 
 <h3 align="left">Connect with me:</h3>
